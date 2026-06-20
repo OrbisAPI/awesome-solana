@@ -65,6 +65,7 @@ Table of Contents
 #### Developer Tooling
 - [SPL Token UI](https://spl-token-ui.com) for general token management on all clusters
 - [Sollet.io](https://sollet.io) allows you to request airdops and mint test tokens where allowed
+- [Orbis](https://orbisapi.com) - Pay-per-call API marketplace for AI agents. 2,000+ endpoints across crypto data, web search, social data, geo, and utilities. Native Solana USDC payments via x402 protocol — no API keys or subscriptions required. ([Docs](https://orbisapi.com/docs) | [OpenAPI](https://orbisapi.com/openapi.json))
 
 #### Libraries & Frameworks
 - [Anchor](https://github.com/project-serum/anchor)
